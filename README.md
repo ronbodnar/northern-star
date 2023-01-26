@@ -4,16 +4,14 @@ NorthernStar contains a series of tools used by drivers of NRT to streamline off
 
 Features
 --------
-
-
-#### **Trip Sheet Manager**
+#### **Trip Sheet Management**
  - Driver will log in using company-provided credentials
  - Driver is then prompted for daily load number and start time
  - Driver will interact with the application when leaving or arriving at facilities, NRT yard, or fuel stations
  - Exceptions are able to be noted if any mechanical or unforseen delays are encountered
  - NRT and Danone will both receive updated spreadsheet information with driver times and stops
 
-#### **Over, Short & Damage (OS&D)**
+#### **Over, Short & Damage (OS&D) Reporting**
  - Coming soon...
 
 #### **Accident / Incident Reports**
