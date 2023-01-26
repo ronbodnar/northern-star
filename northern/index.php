@@ -78,6 +78,7 @@ if (isset($_POST['status'])) {
 </head>
 
 <body id="body-pd">
+    <!-- Header and sidebar -->
     <header class="header" id="header">
         <div class="header_toggle">
             <i class="bx bx-menu" id="header-toggle"></i>
@@ -121,6 +122,8 @@ if (isset($_POST['status'])) {
             </div>
         </nav>
     </div>
+
+    <!-- Main content -->
     <div>
         <?php if (isset($_SESSION['username'])) { ?>
             <?php if (!isset($_SESSION['LOAD_NUMBER'])) { ?>
