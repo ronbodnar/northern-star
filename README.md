@@ -1,5 +1,4 @@
-## NorthernStar
-------------
+# NorthernStar
 NorthernStar contains a series of tools used by drivers of NRT to streamline office procedures and minimize losses.
 
 ------------
